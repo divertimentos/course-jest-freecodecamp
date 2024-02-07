@@ -1,5 +1,11 @@
 # course-jest-freecodecamp
 
+
+
+![]()
+
+
+
 After installing Jest, you have to update your script commands to use it.
 
 ```javascript
