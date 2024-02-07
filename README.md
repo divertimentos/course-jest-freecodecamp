@@ -1,8 +1,22 @@
+<!--toc:start-->
+
+- [course-jest-freecodecamp](#course-jest-freecodecamp)
+
+- [What's an unit test?](#whats-an-unit-test)
+
+- [Useful basic info](#useful-basic-info)
+
+- [Syntax](#syntax)
+
+- [Quick disclaimer about exports/imports](#quick-disclaimer-about-exportsimports)
+
+- [The main expect() methods](#the-main-expect-methods)
+  
+  <!--toc:end-->
+
 # course-jest-freecodecamp
 
-
-
-![]()
+![](https://github.com/divertimentos/course-jest-freecodecamp/blob/main/public/tests-screenshot.png)
 
 
 
